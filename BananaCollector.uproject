@@ -13,10 +13,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
 			"Name": "WebAuth",
 			"Enabled": true
 		},
@@ -30,6 +26,10 @@
 		},
 		{
 			"Name": "SteamController",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
